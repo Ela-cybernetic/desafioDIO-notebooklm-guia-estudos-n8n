@@ -1,4 +1,4 @@
-# GeminiLM - Guia de Estudos sobre N8N
+# Notebook LM (Agora Gemini LM) - Guia de Estudos sobre N8N
 
 ## 🎯 Tema e Objetivo
 Montar um segundo cérebro sobre N8N para iniciantes, reunindo fontes oficiais e confiáveis que explicam conceitos básicos e workflows simples.
@@ -24,8 +24,8 @@ Confiável porque mostra na prática como montar workflows simples.
   - https://www.youtube.com/watch?v=qdk-ip0wmUY
 
 **3. Stackflow - N8N**
-ConfiáveLporque é publicado por autores reconhecidos na comunidade N8N, com exemplos validados e feedback de outros usuários
-https://stackoverflow.com/questions/tagged/n8n?tab=Newest
+Confiável porque é publicado por autores reconhecidos na comunidade N8N, com exemplos validados e feedback de outros usuários
+  - https://stackoverflow.com/questions/tagged/n8n?tab=Newest
 
 
 ## 🔗 Link do Notebook

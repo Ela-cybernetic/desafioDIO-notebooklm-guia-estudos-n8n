@@ -30,7 +30,7 @@ Confiável porque é publicado por autores reconhecidos na comunidade N8N, com e
 
 ## 🔗 Link do Notebook
 
-[link do Notebook LM compartilhado aqui](https://notebook.google.com/notebook/c0863f75-cb46-43d5-a14b-34d3b9d339bd)
+  - [link do Notebook LM](https://notebook.google.com/notebook/c0863f75-cb46-43d5-a14b-34d3b9d339bd)
 
 ## 📂Materiais Gerados
 Prints do chat mostrando as respostas com citações.

@@ -32,7 +32,7 @@ Confiável porque é publicado por autores reconhecidos na comunidade N8N, com e
   - https://stackoverflow.com/questions/tagged/n8n?tab=Newest
 
 
-## 🔗 Link do Notebook
+## 🔗 Link do Notebook LM
 
   - [link do Notebook LM](https://notebook.google.com/notebook/c0863f75-cb46-43d5-a14b-34d3b9d339bd)
 

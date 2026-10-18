@@ -37,9 +37,10 @@ Confiável porque é publicado por autores reconhecidos na comunidade N8N, com e
   - [link do Notebook LM](https://notebook.google.com/notebook/c0863f75-cb46-43d5-a14b-34d3b9d339bd)
 
 ## 📂Materiais Gerados
-Prints do chat mostrando as respostas com citações.
 
-Arquivos gerados (mapa mental em PNG, slides em PDF, guia de estudos).
+ - Print do chat mostrando a resposta com a fonte:
+   ![print-chat](assets-n8n/print-fonte.png)
 
+- Slides em PDF
+  ![relatorio](assets-n8n/relatorio-n8n.png)
 
-Confiável porque mostra na prática como montar workflows simples, produzido pela própria equipe do N8N.

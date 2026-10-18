@@ -42,7 +42,8 @@ Confiável porque é publicado por autores reconhecidos na comunidade N8N, com e
    ![print-chat](assets-n8n/print-fonte.png)
 
 - Slides em PDF
-  [slides](assets-n8n/relatorio-n8n.png)
+  
+  [slides](assets-n8n/relatorio-n8n.pdf)
 
 - 📑 Relatório e 🎧 Áudio acesse o link do notebook LM acima 
 

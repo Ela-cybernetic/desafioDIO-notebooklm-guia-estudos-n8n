@@ -41,7 +41,7 @@ Confiável porque é publicado por autores reconhecidos na comunidade N8N, com e
  - Print do chat mostrando a resposta com a fonte:
    ![print-chat](assets-n8n/print-fonte.png)
 
-- 📚[Slides em PDF](assets-n8n/relatorio-n8n.pdf)
+- 📚[Slides em PDF](assets-n8n/slides-n8n.pdf)
 
 - 📑 Relatório e 🎧 Áudio acesse o link do notebook LM acima 
 
